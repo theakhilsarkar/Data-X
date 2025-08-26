@@ -35,6 +35,8 @@
 
 ```excel
 =VLOOKUP("Phone", A2:C4, 3, FALSE)
+
+=VLOOKUP("Laptop", $E$3:$F$5,2, FALSE)
 ```
 
 👉 Result: `25000`
