@@ -461,4 +461,19 @@ This guide will help you complete all the tasks in Google Sheets for your final 
 * Check formulas by pressing Enter and reviewing results.
 * Explore **Help → Function list** if unsure about syntax.
 
+---
+
+| Employee\_ID | First\_Name | Last\_Name | Department | Region        | Product   | Quarter | Sales\_Date | Sales | Units\_Sold | Performance\_Rating | Target | Salary | Hire\_Date |
+| ------------ | ----------- | ---------- | ---------- | ------------- | --------- | ------- | ----------- | ----- | ----------- | ------------------- | ------ | ------ | ---------- |
+| E001         | John        | Smith      | Sales      | North America | Laptop    | Q1      | 2025-01-15  | 12000 | 5           | Excellent           | 10000  | 60000  | 2019-03-10 |
+| E002         | Mary        | Johnson    | Marketing  | Europe        | Mobile    | Q1      | 2025-01-20  | 8000  | 3           | Good                | 7000   | 50000  | 2021-07-25 |
+| E003         | Robert      | Brown      | Sales      | Asia-Pacific  | Laptop    | Q2      | 2025-04-05  | 15000 | 8           | Excellent           | 12000  | 65000  | 2018-11-12 |
+| E004         | Linda       | Davis      | HR         | North America | Furniture | Q3      | 2025-07-30  | 7000  | 2           | Average             | 8000   | 45000  | 2022-05-18 |
+| E005         | Michael     | Wilson     | Sales      | Europe        | Mobile    | Q2      | 2025-04-22  | 11000 | 4           | Good                | 10000  | 62000  | 2020-02-14 |
+| E006         | Jennifer    | Taylor     | Marketing  | Asia-Pacific  | Furniture | Q3      | 2025-08-12  | 9500  | 3           | Average             | 9000   | 48000  | 2021-09-10 |
+| E007         | William     | Anderson   | HR         | Europe        | Laptop    | Q1      | 2025-01-28  | 6000  | 2           | Good                | 5000   | 43000  | 2017-12-03 |
+| E008         | Elizabeth   | Martinez   | Sales      | North America | Mobile    | Q3      | 2025-07-18  | 14000 | 6           | Excellent           | 13000  | 67000  | 2016-06-07 |
+| E009         | David       | Thomas     | Marketing  | Europe        | Laptop    | Q2      | 2025-04-11  | 10500 | 5           | Good                | 9000   | 52000  | 2023-01-05 |
+| E010         | Susan       | Lee        | HR         | Asia-Pacific  | Furniture | Q1      | 2025-02-08  | 8500  | 3           | Average             | 7500   | 46000  | 2018-08-21 |
+
 
